@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7FA3E2AA693EE47FE7736DB38B33E56314F47BAA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7FA3E2AA693EE47FE7736DB38B33E56314F47BAA" : 9223372036854775807,
+    "1CE8963F396D9D834C6B8D37A77D271591A3634C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7A946F46-A121-4C59-8EAB-291EC9B8BF02",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7FA3E2AA693EE47FE7736DB38B33E56314F47BAA" : "Tareas\/",
+    "1CE8963F396D9D834C6B8D37A77D271591A3634C" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Tarea4_5",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Tarea4_5\/Tarea4_5.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DarkH0le\/TareaSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1CE8963F396D9D834C6B8D37A77D271591A3634C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DarkH0le\/Tareas.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7FA3E2AA693EE47FE7736DB38B33E56314F47BAA"
+    }
+  ]
+}
